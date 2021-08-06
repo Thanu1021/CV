@@ -1,0 +1,50 @@
+body {
+  font-family: 'Arial';
+}
+
+.login {
+  width: 382px;
+  overflow: hidden;
+  margin: auto;
+  margin: 20 0 0 450px;
+  padding: 80px;
+  background-image: linear-gradient(to right, rgba(128,128,128, 0.5), rgba(0,0, 0, 0.5));
+  border-radius: 15px;
+}
+
+#yname {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 17px;
+  padding-left: 8px;
+}
+
+#yemail {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 17px;
+  padding-left: 8px;
+}
+
+#ymsg {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+
+#submit {
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 17px;
+  padding-left: 7px;
+  color: black;
+  font-size: 1.2em;
+  font-family: 'sans-serif';
+  font-weight: bold;
+  align-items: center;
+}
